@@ -25,12 +25,15 @@ h2 {
 }
 
 a {
-    color: #1e90ff;
+    color: white;
     text-decoration: none;
+    background-color: #1e90ff;
+    padding: 10px 20px;
+    border-radius: 5px;
 }
 
 a:hover {
-    text-decoration: underline;
+    background-color: #007bff;
 }
 
 footer {
